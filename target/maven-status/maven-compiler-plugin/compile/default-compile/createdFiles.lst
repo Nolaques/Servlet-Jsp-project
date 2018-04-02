@@ -1,0 +1,5 @@
+app\servlets\ListServlet.class
+app\model\Model.class
+app\servlets\AddServlet.class
+app\servlets\RemoveServlet.class
+app\entities\User.class
